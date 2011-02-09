@@ -1,0 +1,12 @@
+{
+  "name": "node-i18n",
+  "description": "Minimalistic i18n module with templating",
+  "version": "0.0.1",
+  "author": "Dan Hansen <mokker1234@gmail.com>",
+  "dependencies": {
+    "underscore": ">= 1.1.4"
+  },
+  "keywords": ["i18n", "internationalization", "internationalisation", "translation"],
+  "main": "index",
+  "engines": { "node": ">= 0.2.0" }
+}
