@@ -21,7 +21,7 @@ exports["factory"]["creates a new instance if one isnt passed"] = function(test)
 exports["setLocale"] = {};
 exports["setLocale"]["sets the locale to module.exports.all"] = function(test) {
   var instance = i18n.factory(__dirname + "/locales");
-  instance.load("en");
+  instance.setLocale("en");
   test.equal(instance.locale, require(__dirname + "/locales/en").all);
   test.done();
 }
