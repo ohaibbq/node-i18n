@@ -4,6 +4,5 @@
   "version": "0.1",
   "author": "Dan Hansen <mokker1234@gmail.com>",
   "keywords": ["i18n", "internationalization", "internationalisation", "translation"],
-  "main": "index",
-  "engines": { "node": ">= 0.2.0" }
+  "main": "index"
 }
