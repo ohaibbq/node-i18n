@@ -1,12 +1,23 @@
 {
   "name": "node-i18n",
+  "version": "0.2",
   "description": "Minimalistic i18n module with templating",
-  "version": "0.1",
-  "author": "Dan Hansen <mokker1234@gmail.com>",
-  "dependencies": {
-    "underscore": ">= 1.1.4"
-  },
-  "keywords": ["i18n", "internationalization", "internationalisation", "translation"],
+  "homepage": "http://github.com/OhaiBBQ/node-i18n",
   "main": "index",
-  "engines": { "node": ">= 0.2.0" }
+  "keywords": ["i18n", "internationalization", "internationalisation", "translation"],
+  "author": {
+    "name": "Dan Hansen",
+    "email": "mokker1234@gmail.com"
+  },
+  "maintainers": [{
+    "name": "Kit Goncharov",
+    "web": "http://kitgoncharov.github.com"
+  }],
+  "bugs": {
+    "url": "http://github.com/OhaiBBQ/node-i18n/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/OhaiBBQ/node-i18n.git"
+  }
 }
